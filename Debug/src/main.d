@@ -1,4 +1,4 @@
-src/main.d: ../src/main.c ../src/OpenAsteroids.h ../src/Framework.h \
+src/main.d: ../src/main.c ../src/OpenAsteroids.h \
  /usr/local/include/SDL/SDL.h /usr/local/include/SDL/SDL_main.h \
  /usr/local/include/SDL/SDL_stdinc.h /usr/local/include/SDL/SDL_config.h \
  /usr/local/include/SDL/SDL_platform.h \
@@ -15,8 +15,6 @@ src/main.d: ../src/main.c ../src/OpenAsteroids.h ../src/Framework.h \
  /usr/local/include/SDL/SDL_timer.h /usr/local/include/SDL/SDL_version.h
 
 ../src/OpenAsteroids.h:
-
-../src/Framework.h:
 
 /usr/local/include/SDL/SDL.h:
 

@@ -31,3 +31,5 @@
 # Eclipse Project Stuff
 .cproject
 .project
+.settings
+Debug

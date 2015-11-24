@@ -4,7 +4,7 @@
  *  Created on: 06.01.2015
  *      Author: u_hartwig
  */
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include <assert.h>
 #include <stdio.h>
 #include <time.h>

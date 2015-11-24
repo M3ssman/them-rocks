@@ -1,8 +1,0 @@
-
-Values for Data/Player.bmp for pSprite->Rect: 704, 64
-Values for Data/Shot.bmp for pSprite->Rect: 10, 40
-Values for Data/openAsteroidsTexts.bmp for pSprite->Rect: 640, 256
-Values for Data/SimpleScrollingSpace.bmp for pSprite->Rect: 800, 1800
-Values for Data/RockMedium.bmp for pSprite->Rect: 190, 114
-Values for Data/Explosion.bmp for pSprite->Rect: 770, 110
-Values for Data/Numbers.bmp for pSprite->Rect: 240, 64

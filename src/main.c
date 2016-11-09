@@ -15,8 +15,9 @@ int main(int argc, char *argv[]) {
     Game* game = (Game*) calloc(1, sizeof(Game));
     Game_Init(game);
     printf("\ninit game");
-    Game_Run(game, test->pPlayer, FRAMEWORK.pScreen);
     
+    Game_Run(game, game->pPlayer, FRAMEWORK.pScreen);
+
     printf("\nquit game ... ");
     Framework_Quit();
     printf("\nbye!");

@@ -33,3 +33,6 @@
 .project
 .settings
 Debug
+
+# Eclipse Neon CDT Stuff
+.autotools

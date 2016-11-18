@@ -25,7 +25,7 @@ where "-o" stands for the final Name of the Executable, so you're to change this
 The part in between the Backticks dynamically evaluates the necessary Header Files and Libraries
 that SDL needs to sucessully compile. It's a shorthand Notation to something like
 ```bash
-<project-root>$ gcc -o t src/main.c -I/usr/include/SDL -L/usr/lib/x86_64-linux-gnu -lSDL
+<project-root>$ gcc -o them-rocks-bin src/main.c -I/usr/include/SDL -L/usr/lib/x86_64-linux-gnu -lSDL
 ```
 
 Otherwise, feel free to import the Project Folder into your IDE of choice (ex., [Eclipse Neon CDT][3]). Be sure to set Includes and Link-Paths appropriate and start the Build.
